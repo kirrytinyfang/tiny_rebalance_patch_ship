@@ -1,0 +1,7 @@
+<diff> 
+	<replace sel="//macros/macro/properties/boost/@duration">37.70</replace>
+	<replace sel="//macros/macro/properties/boost/@attack">8.00</replace>
+	<replace sel="//macros/macro/properties/boost/@thrust">2.40</replace>
+	<replace sel="//macros/macro/properties/travel/@attack">48.00</replace>
+	<replace sel="//macros/macro/properties/hull/@max">11926.00</replace>
+</diff> 

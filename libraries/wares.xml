@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff> 
+	<replace sel="/wares/ware[@id='ship_par_l_destroyer_01_a']/price">
+		<price min="4276299" average="3521658" max="5785581" /> 
+	</replace>
+	<replace sel="/wares/ware[@id='ship_par_l_destroyer_01_a']/production[@method='default']/@time">137</replace>
+	<replace sel="/wares/ware[@id='ship_par_l_destroyer_01_a']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="energycells" amount="753" />
+			<ware ware="hullparts" amount="3312" />
+		</primary> 
+	</replace>
+
+	<replace sel="/wares/ware[@id='ship_par_l_destroyer_01_b']/price">
+		<price min="5135781" average="4229467" max="6948409" /> 
+	</replace>
+	<replace sel="/wares/ware[@id='ship_par_l_destroyer_01_b']/production[@method='default']/@time">164</replace>
+	<replace sel="/wares/ware[@id='ship_par_l_destroyer_01_b']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="energycells" amount="904" />
+			<ware ware="hullparts" amount="3978" />
+		</primary> 
+	</replace>
+
+	<replace sel="/wares/ware[@id='ship_par_l_miner_liquid_01_a']/price">
+		<price min="981657" average="808423" max="1328124" /> 
+	</replace>
+	<replace sel="/wares/ware[@id='ship_par_l_miner_liquid_01_a']/production[@method='default']/@time">52</replace>
+	<replace sel="/wares/ware[@id='ship_par_l_miner_liquid_01_a']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="energycells" amount="285" />
+			<ware ware="hullparts" amount="752" />
+		</primary> 
+	</replace>
+
+	<replace sel="/wares/ware[@id='ship_par_l_miner_liquid_01_b']/price">
+		<price min="1186405" average="977039" max="1605136" /> 
+	</replace>
+	<replace sel="/wares/ware[@id='ship_par_l_miner_liquid_01_b']/production[@method='default']/@time">62</replace>
+	<replace sel="/wares/ware[@id='ship_par_l_miner_liquid_01_b']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="energycells" amount="344" />
+			<ware ware="hullparts" amount="909" />
+		</primary> 
+	</replace>
+
+	<replace sel="/wares/ware[@id='ship_par_l_miner_solid_01_a']/price">
+		<price min="981657" average="808423" max="1328124" /> 
+	</replace>
+	<replace sel="/wares/ware[@id='ship_par_l_miner_solid_01_a']/production[@method='default']/@time">52</replace>
+	<replace sel="/wares/ware[@id='ship_par_l_miner_solid_01_a']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="energycells" amount="285" />
+			<ware ware="hullparts" amount="752" />
+		</primary> 
+	</replace>
+
+	<replace sel="/wares/ware[@id='ship_par_l_miner_solid_01_b']/price">
+		<price min="1186405" average="977039" max="1605136" /> 
+	</replace>
+	<replace sel="/wares/ware[@id='ship_par_l_miner_solid_01_b']/production[@method='default']/@time">62</replace>
+	<replace sel="/wares/ware[@id='ship_par_l_miner_solid_01_b']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="energycells" amount="344" />
+			<ware ware="hullparts" amount="909" />
+		</primary> 
+	</replace>
+</diff>

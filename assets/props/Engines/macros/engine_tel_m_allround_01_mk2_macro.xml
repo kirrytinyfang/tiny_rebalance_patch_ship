@@ -1,0 +1,3 @@
+<diff> 
+	<replace sel="//macros/macro/properties/travel/@attack">19.00</replace>
+</diff> 

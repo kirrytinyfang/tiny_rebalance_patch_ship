@@ -1,0 +1,3 @@
+<diff> 
+	<replace sel="//macros/macro/properties/storage/@missile">320</replace>
+</diff> 

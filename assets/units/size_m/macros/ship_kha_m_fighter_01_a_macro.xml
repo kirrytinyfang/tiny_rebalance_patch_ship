@@ -1,0 +1,3 @@
+<diff> 
+	<replace sel="//macros/macro/properties/hull/@max">5200</replace>
+</diff> 
