@@ -1,0 +1,3 @@
+<diff> 
+	<replace sel="//macros/macro/properties/cargo/@max">32500</replace>
+</diff> 
