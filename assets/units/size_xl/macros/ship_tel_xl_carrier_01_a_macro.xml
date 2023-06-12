@@ -1,4 +1,6 @@
 <diff> 
 	<replace sel="//macros/macro/properties/physics/drag/@forward">194.12</replace>
 	<replace sel="//macros/macro/properties/physics/drag/@reverse">776.47</replace>
+	<replace sel="//macros/macro/connections/connection[@ref='con_shipstorage01']/macro/@ref">shipstorage_gen_m_eight_macro</replace>
+	<replace sel="//macros/macro/connections/connection[@ref='con_shipstorage02']/macro/@ref">shipstorage_gen_s_thirty_two_macro</replace>
 </diff> 

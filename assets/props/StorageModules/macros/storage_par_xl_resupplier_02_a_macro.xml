@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff> 
+	<replace sel="//macros/macro/properties/cargo/@max">44252</replace>
+</diff>
+<!--macros>
+  <macro name="storage_par_xl_resupplier_02_a_macro" class="storage">
+    <component ref="generic_storage" />
+    <properties>
+      <identification makerrace="paranid" />
+      <cargo max="34040" tags="container" />
+      <hull integrated="1" />
+    </properties>
+  </macro>
+</macros-->

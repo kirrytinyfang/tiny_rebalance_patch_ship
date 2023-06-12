@@ -1,0 +1,4 @@
+<diff>
+	<replace sel="//macros/macro/connections/connection[@ref='con_shipstorage03']/macro/@ref">shipstorage_gen_m_eight_macro</replace>
+	<replace sel="//macros/macro/connections/connection[@ref='con_shipstorage01']/macro/@ref">shipstorage_gen_s_thirty_two_macro</replace>
+</diff> 
