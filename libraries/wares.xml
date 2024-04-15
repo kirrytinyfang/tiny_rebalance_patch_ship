@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <diff>
+	<replace sel="/wares/ware[@id='ship_arg_l_destroyer_01_a']/price">
+		<price min="2804309" average="3299187" max="3794065" />
+	</replace>
+	<replace sel="/wares/ware[@id='ship_arg_l_destroyer_01_a']/production[@method='default']/@time">
+		127</replace>
+	<replace
+		sel="/wares/ware[@id='ship_arg_l_destroyer_01_a']/production[@method='default']/primary">
+		<primary>
+			<ware ware="energycells" amount="705" />
+			<ware ware="hullparts" amount="3103" />
+		</primary>
+	</replace>
+
+	<replace sel="/wares/ware[@id='ship_arg_l_destroyer_01_b']/price">
+		<price min="3356544" average="3948875" max="4541206" />
+	</replace>
+	<replace sel="/wares/ware[@id='ship_arg_l_destroyer_01_b']/production[@method='default']/@time">
+		152</replace>
+	<replace
+		sel="/wares/ware[@id='ship_arg_l_destroyer_01_b']/production[@method='default']/primary">
+		<primary>
+			<ware ware="energycells" amount="844" />
+			<ware ware="hullparts" amount="3714" />
+		</primary>
+	</replace>
+
+	<replace sel="/wares/ware[@id='ship_tel_l_destroyer_01_a']/price">
+		<price min="3137649" average="3691352" max="4245054" />
+	</replace>
+	<replace sel="/wares/ware[@id='ship_tel_l_destroyer_01_a']/production[@method='default']/@time">
+		142</replace>
+	<replace
+		sel="/wares/ware[@id='ship_tel_l_destroyer_01_a']/production[@method='default']/primary">
+		<primary>
+			<ware ware="energycells" amount="788" />
+			<ware ware="hullparts" amount="3472" />
+		</primary>
+	</replace>
+
+	<replace sel="/wares/ware[@id='ship_tel_l_destroyer_01_b']/price">
+		<price min="3753203" average="4415533" max="5077863" />
+	</replace>
+	<replace sel="/wares/ware[@id='ship_tel_l_destroyer_01_b']/production[@method='default']/@time">
+		170</replace>
+	<replace
+		sel="/wares/ware[@id='ship_tel_l_destroyer_01_b']/production[@method='default']/primary">
+		<primary>
+			<ware ware="energycells" amount="944" />
+			<ware ware="hullparts" amount="4153" />
+		</primary>
+	</replace>
+
 	<replace sel="/wares/ware[@id='ship_par_l_destroyer_01_a']/price">
-		<price min="4276299" average="3521658" max="5785581" />
+		<price min="2993409" average="3521658" max="4049906" />
 	</replace>
 	<replace sel="/wares/ware[@id='ship_par_l_destroyer_01_a']/production[@method='default']/@time">
 		137</replace>
@@ -14,7 +66,7 @@
 	</replace>
 
 	<replace sel="/wares/ware[@id='ship_par_l_destroyer_01_b']/price">
-		<price min="5135781" average="4229467" max="6948409" />
+		<price min="3595046" average="4229467" max="4863886" />
 	</replace>
 	<replace sel="/wares/ware[@id='ship_par_l_destroyer_01_b']/production[@method='default']/@time">
 		164</replace>
