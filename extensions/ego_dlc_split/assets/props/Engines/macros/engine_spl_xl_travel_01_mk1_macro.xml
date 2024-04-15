@@ -1,5 +1,5 @@
 <diff> 
 	<replace sel="//macros/macro/properties/travel/@attack">68.00</replace>
-	<replace sel="//macros/macro/properties/travel/@charge">24.00</replace>
+	<replace sel="//macros/macro/properties/travel/@charge">18.00</replace>
 	<replace sel="//macros/macro/properties/travel/@thrust">15.40</replace>
 </diff> 
