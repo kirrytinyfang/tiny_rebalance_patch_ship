@@ -129,56 +129,6 @@
 			<ware ware="hullparts" amount="909" />
 		</primary>
 	</replace>
-	<replace sel="/wares/ware[@id='engine_spl_m_combat_01_mk4']/price">
-		<price min="1267862" average="905012" max="2363619" />
-	</replace>
-	<replace
-		sel="/wares/ware[@id='engine_spl_m_combat_01_mk4']/production[@method='default']/primary">
-		<primary>
-			<ware ware="antimatterconverters" amount="168" />
-			<ware ware="energycells" amount="318" />
-			<ware ware="engineparts" amount="519" />
-		</primary>
-	</replace>
-
-	<replace sel="/wares/ware[@id='engine_ter_m_allround_01_mk3']/price">
-		<price min="690560" average="383644" max="844018" />
-	</replace>
-	<replace
-		sel="/wares/ware[@id='engine_ter_m_allround_01_mk3']/production[@method='default']/primary">
-		<primary>
-			<ware ware="computronicsubstrate" amount="16" />
-			<ware ware="energycells" amount="300" />
-			<ware ware="metallicmicrolattice" amount="97" />
-			<ware ware="siliconcarbide" amount="16" />
-		</primary>
-	</replace>
-
-	<replace sel="/wares/ware[@id='engine_ter_m_combat_01_mk3']/price">
-		<price min="829153" average="460641" max="1013410" />
-	</replace>
-	<replace
-		sel="/wares/ware[@id='engine_ter_m_combat_01_mk3']/production[@method='default']/primary">
-		<primary>
-			<ware ware="computronicsubstrate" amount="19" />
-			<ware ware="energycells" amount="300" />
-			<ware ware="metallicmicrolattice" amount="102" />
-			<ware ware="siliconcarbide" amount="18" />
-		</primary>
-	</replace>
-
-	<replace sel="/wares/ware[@id='engine_ter_m_travel_01_mk3']/price">
-		<price min="794455" average="441364" max="971001" />
-	</replace>
-	<replace
-		sel="/wares/ware[@id='engine_ter_m_travel_01_mk3']/production[@method='default']/primary">
-		<primary>
-			<ware ware="computronicsubstrate" amount="19" />
-			<ware ware="energycells" amount="300" />
-			<ware ware="metallicmicrolattice" amount="107" />
-			<ware ware="siliconcarbide" amount="18" />
-		</primary>
-	</replace>
 	<replace sel="//wares/ware[@id='engineparts']/production[@method='default']">
 		<production time="900" amount="239" method="default" name="{20206,101}">
 			<primary>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+	<replace sel="/wares/ware[@id='engine_ter_s_allround_01_mk3']/price">
+		<price min="207207" average="230230" max="253253" />
+	</replace>
+	<replace
+		sel="/wares/ware[@id='engine_ter_s_allround_01_mk3']/production[@method='default']/primary">
+		<primary>
+			<ware ware="computronicsubstrate" amount="9" />
+			<ware ware="energycells" amount="280" />
+			<ware ware="metallicmicrolattice" amount="65" />
+			<ware ware="siliconcarbide" amount="9" />
+		</primary>
+	</replace>
+
+	<replace sel="/wares/ware[@id='engine_ter_s_combat_01_mk3']/price">
+		<price min="304122" average="337913" max="371704" />
+	</replace>
+	<replace
+		sel="/wares/ware[@id='engine_ter_s_combat_01_mk3']/production[@method='default']/primary">
+		<primary>
+			<ware ware="computronicsubstrate" amount="13" />
+			<ware ware="energycells" amount="280" />
+			<ware ware="metallicmicrolattice" amount="88" />
+			<ware ware="siliconcarbide" amount="15" />
+		</primary>
+	</replace>
+
+	<replace sel="/wares/ware[@id='engine_ter_s_travel_01_mk3']/price">
+		<price min="279934" average="311038" max="342141" />
+	</replace>
+	<replace
+		sel="/wares/ware[@id='engine_ter_s_travel_01_mk3']/production[@method='default']/primary">
+		<primary>
+			<ware ware="computronicsubstrate" amount="12" />
+			<ware ware="energycells" amount="280" />
+			<ware ware="metallicmicrolattice" amount="79" />
+			<ware ware="siliconcarbide" amount="11" />
+		</primary>
+	</replace>
+
+	<replace sel="/wares/ware[@id='engine_ter_m_allround_01_mk3']/price">
+		<price min="483392" average="537102" max="590812" />
+	</replace>
+	<replace
+		sel="/wares/ware[@id='engine_ter_m_allround_01_mk3']/production[@method='default']/primary">
+		<primary>
+			<ware ware="computronicsubstrate" amount="21" />
+			<ware ware="energycells" amount="420" />
+			<ware ware="metallicmicrolattice" amount="135" />
+			<ware ware="siliconcarbide" amount="21" />
+		</primary>
+	</replace>
+
+	<replace sel="/wares/ware[@id='engine_ter_m_combat_01_mk3']/price">
+		<price min="580407" average="594595" max="709387" />
+	</replace>
+	<replace
+		sel="/wares/ware[@id='engine_ter_m_combat_01_mk3']/production[@method='default']/primary">
+		<primary>
+			<ware ware="computronicsubstrate" amount="26" />
+			<ware ware="energycells" amount="420" />
+			<ware ware="metallicmicrolattice" amount="142" />
+			<ware ware="siliconcarbide" amount="24" />
+		</primary>
+	</replace>
+
+	<replace sel="/wares/ware[@id='engine_ter_m_travel_01_mk3']/price">
+		<price min="556118" average="617909" max="679700" />
+	</replace>
+	<replace
+		sel="/wares/ware[@id='engine_ter_m_travel_01_mk3']/production[@method='default']/primary">
+		<primary>
+			<ware ware="computronicsubstrate" amount="25" />
+			<ware ware="energycells" amount="420" />
+			<ware ware="metallicmicrolattice" amount="149" />
+			<ware ware="siliconcarbide" amount="24" />
+		</primary>
+	</replace>
+</diff>

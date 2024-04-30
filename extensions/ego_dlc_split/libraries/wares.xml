@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+	<replace sel="/wares/ware[@id='engine_spl_s_combat_01_mk4']/price">
+		<price min="67237" average="96113" max="125400" />
+	</replace>
+	<replace
+		sel="/wares/ware[@id='engine_spl_s_combat_01_mk4']/production[@method='default']/primary">
+		<primary>
+			<ware ware="antimatterconverters" amount="47" />
+			<ware ware="energycells" amount="180" />
+			<ware ware="engineparts" amount="355" />
+		</primary>
+	</replace>
+	<replace sel="/wares/ware[@id='engine_spl_m_combat_01_mk4']/price">
+		<price min="1267862" average="905012" max="2363619" />
+	</replace>
+	<replace
+		sel="/wares/ware[@id='engine_spl_m_combat_01_mk4']/production[@method='default']/primary">
+		<primary>
+			<ware ware="antimatterconverters" amount="168" />
+			<ware ware="energycells" amount="318" />
+			<ware ware="engineparts" amount="519" />
+		</primary>
+	</replace>
+</diff>
