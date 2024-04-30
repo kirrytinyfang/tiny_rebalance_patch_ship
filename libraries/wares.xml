@@ -5,8 +5,7 @@
 	</replace>
 	<replace sel="/wares/ware[@id='ship_arg_l_destroyer_01_a']/production[@method='default']/@time">
 		127</replace>
-	<replace
-		sel="/wares/ware[@id='ship_arg_l_destroyer_01_a']/production[@method='default']/primary">
+	<replace sel="/wares/ware[@id='ship_arg_l_destroyer_01_a']/production[@method='default']/primary">
 		<primary>
 			<ware ware="energycells" amount="705" />
 			<ware ware="hullparts" amount="3103" />
@@ -18,8 +17,7 @@
 	</replace>
 	<replace sel="/wares/ware[@id='ship_arg_l_destroyer_01_b']/production[@method='default']/@time">
 		152</replace>
-	<replace
-		sel="/wares/ware[@id='ship_arg_l_destroyer_01_b']/production[@method='default']/primary">
+	<replace sel="/wares/ware[@id='ship_arg_l_destroyer_01_b']/production[@method='default']/primary">
 		<primary>
 			<ware ware="energycells" amount="844" />
 			<ware ware="hullparts" amount="3714" />
@@ -31,8 +29,7 @@
 	</replace>
 	<replace sel="/wares/ware[@id='ship_tel_l_destroyer_01_a']/production[@method='default']/@time">
 		142</replace>
-	<replace
-		sel="/wares/ware[@id='ship_tel_l_destroyer_01_a']/production[@method='default']/primary">
+	<replace sel="/wares/ware[@id='ship_tel_l_destroyer_01_a']/production[@method='default']/primary">
 		<primary>
 			<ware ware="energycells" amount="788" />
 			<ware ware="hullparts" amount="3472" />
@@ -44,8 +41,7 @@
 	</replace>
 	<replace sel="/wares/ware[@id='ship_tel_l_destroyer_01_b']/production[@method='default']/@time">
 		170</replace>
-	<replace
-		sel="/wares/ware[@id='ship_tel_l_destroyer_01_b']/production[@method='default']/primary">
+	<replace sel="/wares/ware[@id='ship_tel_l_destroyer_01_b']/production[@method='default']/primary">
 		<primary>
 			<ware ware="energycells" amount="944" />
 			<ware ware="hullparts" amount="4153" />
@@ -57,8 +53,7 @@
 	</replace>
 	<replace sel="/wares/ware[@id='ship_par_l_destroyer_01_a']/production[@method='default']/@time">
 		137</replace>
-	<replace
-		sel="/wares/ware[@id='ship_par_l_destroyer_01_a']/production[@method='default']/primary">
+	<replace sel="/wares/ware[@id='ship_par_l_destroyer_01_a']/production[@method='default']/primary">
 		<primary>
 			<ware ware="energycells" amount="753" />
 			<ware ware="hullparts" amount="3312" />
@@ -70,8 +65,7 @@
 	</replace>
 	<replace sel="/wares/ware[@id='ship_par_l_destroyer_01_b']/production[@method='default']/@time">
 		164</replace>
-	<replace
-		sel="/wares/ware[@id='ship_par_l_destroyer_01_b']/production[@method='default']/primary">
+	<replace sel="/wares/ware[@id='ship_par_l_destroyer_01_b']/production[@method='default']/primary">
 		<primary>
 			<ware ware="energycells" amount="904" />
 			<ware ware="hullparts" amount="3978" />
@@ -79,12 +73,10 @@
 	</replace>
 
 	<replace sel="/wares/ware[@id='ship_par_l_miner_liquid_01_a']/price">
-		<price min="981657" average="808423" max="1328124" />
+		<price min="687159" average="808423" max="929686" />
 	</replace>
-	<replace
-		sel="/wares/ware[@id='ship_par_l_miner_liquid_01_a']/production[@method='default']/@time">52</replace>
-	<replace
-		sel="/wares/ware[@id='ship_par_l_miner_liquid_01_a']/production[@method='default']/primary">
+	<replace sel="/wares/ware[@id='ship_par_l_miner_liquid_01_a']/production[@method='default']/@time">52</replace>
+	<replace sel="/wares/ware[@id='ship_par_l_miner_liquid_01_a']/production[@method='default']/primary">
 		<primary>
 			<ware ware="energycells" amount="285" />
 			<ware ware="hullparts" amount="752" />
@@ -92,12 +84,10 @@
 	</replace>
 
 	<replace sel="/wares/ware[@id='ship_par_l_miner_liquid_01_b']/price">
-		<price min="1186405" average="977039" max="1605136" />
+		<price min="830483" average="977039" max="1123595" />
 	</replace>
-	<replace
-		sel="/wares/ware[@id='ship_par_l_miner_liquid_01_b']/production[@method='default']/@time">62</replace>
-	<replace
-		sel="/wares/ware[@id='ship_par_l_miner_liquid_01_b']/production[@method='default']/primary">
+	<replace sel="/wares/ware[@id='ship_par_l_miner_liquid_01_b']/production[@method='default']/@time">62</replace>
+	<replace sel="/wares/ware[@id='ship_par_l_miner_liquid_01_b']/production[@method='default']/primary">
 		<primary>
 			<ware ware="energycells" amount="344" />
 			<ware ware="hullparts" amount="909" />
@@ -105,12 +95,10 @@
 	</replace>
 
 	<replace sel="/wares/ware[@id='ship_par_l_miner_solid_01_a']/price">
-		<price min="981657" average="808423" max="1328124" />
+		<price min="687159" average="808423" max="929686" />
 	</replace>
-	<replace
-		sel="/wares/ware[@id='ship_par_l_miner_solid_01_a']/production[@method='default']/@time">52</replace>
-	<replace
-		sel="/wares/ware[@id='ship_par_l_miner_solid_01_a']/production[@method='default']/primary">
+	<replace sel="/wares/ware[@id='ship_par_l_miner_solid_01_a']/production[@method='default']/@time">52</replace>
+	<replace sel="/wares/ware[@id='ship_par_l_miner_solid_01_a']/production[@method='default']/primary">
 		<primary>
 			<ware ware="energycells" amount="285" />
 			<ware ware="hullparts" amount="752" />
@@ -118,17 +106,110 @@
 	</replace>
 
 	<replace sel="/wares/ware[@id='ship_par_l_miner_solid_01_b']/price">
-		<price min="1186405" average="977039" max="1605136" />
+		<price min="830483" average="977039" max="1123595" />
 	</replace>
-	<replace
-		sel="/wares/ware[@id='ship_par_l_miner_solid_01_b']/production[@method='default']/@time">62</replace>
-	<replace
-		sel="/wares/ware[@id='ship_par_l_miner_solid_01_b']/production[@method='default']/primary">
+	<replace sel="/wares/ware[@id='ship_par_l_miner_solid_01_b']/production[@method='default']/@time">62</replace>
+	<replace sel="/wares/ware[@id='ship_par_l_miner_solid_01_b']/production[@method='default']/primary">
 		<primary>
 			<ware ware="energycells" amount="344" />
 			<ware ware="hullparts" amount="909" />
 		</primary>
 	</replace>
+
+	<replace sel="/wares/ware[@id='engine_spl_s_combat_01_mk4']/price">
+		<price min="67237" average="96113" max="125400" />
+	</replace>
+	<replace sel="/wares/ware[@id='engine_spl_s_combat_01_mk4']/production[@method='default']/primary">
+		<primary>
+			<ware ware="antimatterconverters" amount="47" />
+			<ware ware="energycells" amount="180" />
+			<ware ware="engineparts" amount="355" />
+		</primary>
+	</replace>
+
+	<replace sel="/wares/ware[@id='engine_spl_m_combat_01_mk4']/price">
+		<price min="1267862" average="905012" max="2363619" />
+	</replace>
+	<replace sel="/wares/ware[@id='engine_spl_m_combat_01_mk4']/production[@method='default']/primary">
+		<primary>
+			<ware ware="antimatterconverters" amount="168" />
+			<ware ware="energycells" amount="318" />
+			<ware ware="engineparts" amount="519" />
+		</primary>
+	</replace>
+
+	<replace sel="/wares/ware[@id='engine_ter_s_allround_01_mk3']/price">
+		<price min="207207" average="230230" max="253253" />
+	</replace>
+	<replace sel="/wares/ware[@id='engine_ter_s_allround_01_mk3']/production[@method='default']/primary">
+		<primary>
+			<ware ware="computronicsubstrate" amount="9" />
+			<ware ware="energycells" amount="280" />
+			<ware ware="metallicmicrolattice" amount="65" />
+			<ware ware="siliconcarbide" amount="9" />
+		</primary>
+	</replace>
+
+	<replace sel="/wares/ware[@id='engine_ter_s_combat_01_mk3']/price">
+		<price min="304122" average="337913" max="371704" />
+	</replace>
+	<replace sel="/wares/ware[@id='engine_ter_s_combat_01_mk3']/production[@method='default']/primary">
+		<primary>
+			<ware ware="computronicsubstrate" amount="13" />
+			<ware ware="energycells" amount="280" />
+			<ware ware="metallicmicrolattice" amount="88" />
+			<ware ware="siliconcarbide" amount="15" />
+		</primary>
+	</replace>
+
+	<replace sel="/wares/ware[@id='engine_ter_s_travel_01_mk3']/price">
+		<price min="279934" average="311038" max="342141" />
+	</replace>
+	<replace sel="/wares/ware[@id='engine_ter_s_travel_01_mk3']/production[@method='default']/primary">
+		<primary>
+			<ware ware="computronicsubstrate" amount="12" />
+			<ware ware="energycells" amount="280" />
+			<ware ware="metallicmicrolattice" amount="79" />
+			<ware ware="siliconcarbide" amount="11" />
+		</primary>
+	</replace>
+
+	<replace sel="/wares/ware[@id='engine_ter_m_allround_01_mk3']/price">
+		<price min="483392" average="537102" max="590812" />
+	</replace>
+	<replace sel="/wares/ware[@id='engine_ter_m_allround_01_mk3']/production[@method='default']/primary">
+		<primary>
+			<ware ware="computronicsubstrate" amount="21" />
+			<ware ware="energycells" amount="420" />
+			<ware ware="metallicmicrolattice" amount="135" />
+			<ware ware="siliconcarbide" amount="21" />
+		</primary>
+	</replace>
+
+	<replace sel="/wares/ware[@id='engine_ter_m_combat_01_mk3']/price">
+		<price min="580407" average="594595" max="709387" />
+	</replace>
+	<replace sel="/wares/ware[@id='engine_ter_m_combat_01_mk3']/production[@method='default']/primary">
+		<primary>
+			<ware ware="computronicsubstrate" amount="26" />
+			<ware ware="energycells" amount="420" />
+			<ware ware="metallicmicrolattice" amount="142" />
+			<ware ware="siliconcarbide" amount="24" />
+		</primary>
+	</replace>
+
+	<replace sel="/wares/ware[@id='engine_ter_m_travel_01_mk3']/price">
+		<price min="556118" average="617909" max="679700" />
+	</replace>
+	<replace sel="/wares/ware[@id='engine_ter_m_travel_01_mk3']/production[@method='default']/primary">
+		<primary>
+			<ware ware="computronicsubstrate" amount="25" />
+			<ware ware="energycells" amount="420" />
+			<ware ware="metallicmicrolattice" amount="149" />
+			<ware ware="siliconcarbide" amount="24" />
+		</primary>
+	</replace>
+
 	<replace sel="//wares/ware[@id='engineparts']/production[@method='default']">
 		<production time="900" amount="239" method="default" name="{20206,101}">
 			<primary>
