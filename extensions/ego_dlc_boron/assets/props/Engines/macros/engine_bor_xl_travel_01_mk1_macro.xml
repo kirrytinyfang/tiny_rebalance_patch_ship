@@ -1,4 +1,0 @@
-<diff> 
-	<replace sel="//macros/macro/properties/travel/@attack">142.80</replace>
-	<replace sel="//macros/macro/properties/travel/@thrust">49.50</replace>
-</diff> 

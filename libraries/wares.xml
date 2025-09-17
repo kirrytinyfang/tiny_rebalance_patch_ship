@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <diff>
+<!-- 戦闘艦 -->
 	<replace sel="/wares/ware[@id='ship_arg_l_destroyer_01_a']/price">
 		<price min="2804309" average="3299187" max="3794065" />
 	</replace>
@@ -72,6 +73,98 @@
 		</primary>
 	</replace>
 
+<!-- 交易船 -->
+
+	<replace sel="/wares/ware[@id='ship_tel_l_trans_container_02_a']/price">
+		<price min="1449783" average="1705627" max="1961471" />
+	</replace>
+	<replace sel="/wares/ware[@id='ship_tel_l_trans_container_02_a']/production[@method='default']/@time">108</replace>
+	<replace sel="/wares/ware[@id='ship_tel_l_trans_container_02_a']/production[@method='default']/primary">
+		<primary>
+			<ware ware="energycells" amount="600" />
+			<ware ware="hullparts" amount="1586" />
+		</primary>
+	</replace>
+
+	<replace sel="/wares/ware[@id='ship_tel_l_trans_container_02_b']/price">
+		<price min="1730691" average="20936107" max="2341523" />
+	</replace>
+	<replace sel="/wares/ware[@id='ship_tel_l_trans_container_02_b']/production[@method='default']/@time">129</replace>
+	<replace sel="/wares/ware[@id='ship_tel_l_trans_container_02_b']/production[@method='default']/primary">
+		<primary>
+			<ware ware="energycells" amount="717" />
+			<ware ware="hullparts" amount="1893" />
+		</primary>
+	</replace>
+
+	<replace sel="/wares/ware[@id='ship_par_l_trans_container_01_a']/price">
+		<price min="1187477" average="139032" max="1606586" />
+	</replace>
+	<replace sel="/wares/ware[@id='ship_par_l_trans_container_01_a']/production[@method='default']/@time">88</replace>
+	<replace sel="/wares/ware[@id='ship_par_l_trans_container_01_a']/production[@method='default']/primary">
+		<primary>
+			<ware ware="energycells" amount="492" />
+			<ware ware="hullparts" amount="1299" />
+		</primary>
+	</replace>
+
+	<replace sel="/wares/ware[@id='ship_par_l_trans_container_01_b']/price">
+		<price min="1434432" average="1687567" max="1940702" />
+	</replace>
+	<replace sel="/wares/ware[@id='ship_par_l_trans_container_01_b']/production[@method='default']/@time">107</replace>
+	<replace sel="/wares/ware[@id='ship_par_l_trans_container_01_b']/production[@method='default']/primary">
+		<primary>
+			<ware ware="energycells" amount="594" />
+			<ware ware="hullparts" amount="1569" />
+		</primary>
+	</replace>
+
+<!-- 採掘船 -->
+
+	<replace sel="/wares/ware[@id='ship_tel_l_miner_solid_01_a']/price">
+		<price min="894469" average="1052317" max="1210164" />
+	</replace>
+	<replace sel="/wares/ware[@id='ship_tel_l_miner_solid_01_a']/production[@method='default']/@time">67</replace>
+	<replace sel="/wares/ware[@id='ship_tel_l_miner_solid_01_a']/production[@method='default']/primary">
+		<primary>
+			<ware ware="energycells" amount="371" />
+			<ware ware="hullparts" amount="978" />
+		</primary>
+	</replace>
+
+	<replace sel="/wares/ware[@id='ship_tel_l_miner_solid_01_b']/price">
+		<price min="1074612" average="1263073" max="1452534" />
+	</replace>
+	<replace sel="/wares/ware[@id='ship_tel_l_miner_solid_01_a']/production[@method='default']/@time">80</replace>
+	<replace sel="/wares/ware[@id='ship_tel_l_miner_solid_01_a']/production[@method='default']/primary">
+		<primary>
+			<ware ware="energycells" amount="445" />
+			<ware ware="hullparts" amount="1188" />
+		</primary>
+	</replace>
+
+	<replace sel="/wares/ware[@id='ship_tel_l_miner_liquid_01_a']/price">
+		<price min="894469" average="1052317" max="1210164" />
+	</replace>
+	<replace sel="/wares/ware[@id='ship_tel_l_miner_liquid_01_a']/production[@method='default']/@time">67</replace>
+	<replace sel="/wares/ware[@id='ship_tel_l_miner_liquid_01_a']/production[@method='default']/primary">
+		<primary>
+			<ware ware="energycells" amount="371" />
+			<ware ware="hullparts" amount="978" />
+		</primary>
+	</replace>
+
+	<replace sel="/wares/ware[@id='ship_tel_l_miner_liquid_01_b']/price">
+		<price min="1074612" average="1263073" max="1452534" />
+	</replace>
+	<replace sel="/wares/ware[@id='ship_tel_l_miner_liquid_01_b']/production[@method='default']/@time">80</replace>
+	<replace sel="/wares/ware[@id='ship_tel_l_miner_liquid_01_b']/production[@method='default']/primary">
+		<primary>
+			<ware ware="energycells" amount="445" />
+			<ware ware="hullparts" amount="1188" />
+		</primary>
+	</replace>
+
 	<replace sel="/wares/ware[@id='ship_par_l_miner_liquid_01_a']/price">
 		<price min="687159" average="808423" max="929686" />
 	</replace>
@@ -115,6 +208,8 @@
 			<ware ware="hullparts" amount="909" />
 		</primary>
 	</replace>
+
+<!-- エンジン -->
 
 	<replace sel="/wares/ware[@id='engine_spl_s_combat_01_mk4']/price">
 		<price min="67237" average="96113" max="125400" />
@@ -209,6 +304,8 @@
 			<ware ware="siliconcarbide" amount="24" />
 		</primary>
 	</replace>
+
+<!-- ウェア -->
 
 	<replace sel="//wares/ware[@id='engineparts']/production[@method='default']">
 		<production time="900" amount="239" method="default" name="{20206,101}">

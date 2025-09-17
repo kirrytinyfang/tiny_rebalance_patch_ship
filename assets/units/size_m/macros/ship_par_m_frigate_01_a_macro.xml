@@ -1,4 +1,0 @@
-<diff> 
-	<replace sel="//macros/macro/properties/hull/@max">24700</replace>
-	<replace sel="//macros/macro/properties/storage/@missile">150</replace>
-</diff> 

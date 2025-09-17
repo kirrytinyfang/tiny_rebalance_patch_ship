@@ -5,7 +5,7 @@
 	</replace>
 	<replace sel="//dataset[@class='ship_xl']/properties/statistics/max/radar/@range">96000</replace>
 	<replace sel="//dataset[@class='ship_l']/properties/radar">
-			<radar range="60000" />
+		<radar range="60000" />
 	</replace>
 	<replace sel="//dataset[@class='ship_l']/properties/statistics/max/radar/@range">72000</replace>
 </diff>

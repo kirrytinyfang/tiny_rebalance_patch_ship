@@ -1,4 +1,0 @@
-<diff> 
-	<replace sel="//macros/macro/properties/physics/drag/@forward">108.53</replace>
-	<replace sel="//macros/macro/properties/physics/drag/@reverse">620.18</replace>
-</diff> 
